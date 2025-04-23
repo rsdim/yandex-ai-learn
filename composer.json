@@ -1,0 +1,23 @@
+{
+    "name": "rsdim/yandex-ai-learn",
+    "description": "call grpc methods from php (php 8.3)",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rsdim\\YandexAiLearn\\": "Yandex/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rsdim",
+            "email": "rsdim@rambler.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"grpc/grpc": "^1.27",
+		"google/protobuf": "^3.11",
+		 "php": ">=8.3.0"
+	}
+}
