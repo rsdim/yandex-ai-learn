@@ -6,7 +6,8 @@
     "autoload": {
         "psr-4": {
             "Yandex\\": "Yandex/",
-			"GPBMetadata\\": "GPBMetadata/"
+			"GPBMetadata\\": "GPBMetadata/",
+			"Google\\": "Google/"
         }
     },
     "authors": [
