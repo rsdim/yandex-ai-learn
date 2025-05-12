@@ -5,8 +5,8 @@
     use Yandex;
     require 'vendor/autoload.php';
 	//тут ожидаются ваши данные 
-	$iam = "t1.9euelZqKjY2KmI-KkMqRxo-Vlo_Mzu3rnpWajp7PlcyPy8zNms6Pz86ViZPl9PcXblI_-e9UQgGP3fT3VxxQP_nvVEIBj83n9euelZqKkYuVypmeko-Yk4-ckJmQk-_8xeuelZqKkYuVypmeko-Yk4-ckJmQk73rnpWaypHOzo7Kz5mTmMaXmY2Nicy1656VmsabzJDNi5OejcmLlpSezJzI.vkZ11WzJXKpKAWqbJo6dpC9hb0K5cGrI5AfM892RWjFM3NbJeF41LE74RtQOXeHRMUIuPXithRCWoyIaa-MSDQ";
-	$folderid = "b1godhqmr7klpfnjuppk";
+	$iam = "t1.9...........";
+	$folderid = "b1............";
 	//конец ваших данных
     $options = [
 		//'credentials' => ChannelCredentials::createDefault(),
